@@ -11,10 +11,10 @@
 | 2026/06/12 | Task 01 - [Singly Linked List](./2026_06_12-Task3/) |
 | 2026/06/19 | Task 01 - [Double Linked List](./2026_06_19-Task4/) |
 |            | Task 02 - [Circular Linked List (Extra) - Change of Structure, Function remains](./2026_06_19-Task4/) |
-| 2026/06/26 | Task 01 - [Stack(Linked List)(./2026_06_26-Task5/) |
-|            | Task 02 - [Stack(Array)(./2026_06_26-Task5/) |
-|            | Task 03 - [Queue(Linked List)(./2026_06_26-Task5/) |
-|            | Task 04 - [Queue(Array)(./2026_06_26-Task5/) |
+| 2026/06/26 | Task 01 - [Stack(Linked List)](./2026_06_26-Task5/) |
+|            | Task 02 - [Stack(Array)](./2026_06_26-Task5/) |
+|            | Task 03 - [Queue(Linked List)](./2026_06_26-Task5/) |
+|            | Task 04 - [Queue(Array)](./2026_06_26-Task5/) |
 | 2026/07/03 | |
 | 2026/07/10 | |
 | 2026/07/17 | |

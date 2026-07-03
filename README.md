@@ -15,6 +15,6 @@
 |            | Task 02 - [Stack(Array)](./2026_06_26-Task5/) |
 |            | Task 03 - [Queue(Linked List)](./2026_06_26-Task5/) |
 |            | Task 04 - [Queue(Array)](./2026_06_26-Task5/) |
-| 2026/07/03 | |
+| 2026/07/03 | Task 01 - [Binary Search Tree](./2026_06_03-Task6/) |
 | 2026/07/10 | |
 | 2026/07/17 | |

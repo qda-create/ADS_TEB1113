@@ -16,5 +16,5 @@
 |            | Task 03 - [Queue(Linked List)](./2026_06_26-Task5/) |
 |            | Task 04 - [Queue(Array)](./2026_06_26-Task5/) |
 | 2026/07/03 | Task 01 - [Binary Search Tree](./2026_07_03-Task6/) |
-| 2026/07/10 | |
+| 2026/07/10 | Task 01 - [Dijkstra Graph using Linked List](.2026_07_10-Task7/) |
 | 2026/07/17 | |

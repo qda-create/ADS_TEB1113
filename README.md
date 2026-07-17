@@ -17,4 +17,5 @@
 |            | Task 04 - [Queue(Array)](./2026_06_26-Task5/) |
 | 2026/07/03 | Task 01 - [Binary Search Tree](./2026_07_03-Task6/) |
 | 2026/07/10 | Task 01 - [Dijkstra Graph using Linked List](./2026_07_10-Task7/) |
-| 2026/07/17 | |
+| 2026/07/17 | Task 01 - [Bubble Sort](./2026_07_17-Task8/) |
+|            | Task 02 - [Insertion Sort](./2026_07_17-Task8/) |

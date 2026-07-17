@@ -19,3 +19,4 @@
 | 2026/07/10 | Task 01 - [Dijkstra Graph using Linked List](./2026_07_10-Task7/) |
 | 2026/07/17 | Task 01 - [Bubble Sort](./2026_07_17-Task8/) |
 |            | Task 02 - [Insertion Sort](./2026_07_17-Task8/) |
+|            | Task 03 - [Selection Sort](./2026_07_17-Task8/) |
